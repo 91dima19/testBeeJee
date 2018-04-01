@@ -1,0 +1,32 @@
+* {margin: 0; padding: 0;}
+body {
+	background: rgba(0,0,0,0) url(/template/image/background.jpg) no-repeat;
+	background-size: 100%;
+	background-attachment:fixed;
+	margin: 0px;
+	padding: 0px;
+
+	/*box-shadow: 0 0 40px rgba(0, 0, 0, 1) inset; */
+}
+#ok {
+	margin-top: 1%;
+	margin-left: 1%;
+	color: #42f45c;
+	font-family: Arial;
+}
+#error {
+	margin-top: 1%;
+	margin-left: 1%;;
+	color: #e02a2a;
+	font-family: Arial;
+}
+#content {
+	width: 98%;
+	min-height: 1200px;
+	background-color: rgba(0,0,0,0.5);
+	margin: 1%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	overflow: auto;
+	position: absolute;
+}

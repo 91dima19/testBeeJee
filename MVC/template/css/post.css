@@ -1,0 +1,56 @@
+.img {
+	display: block;
+	float: left;
+	margin: 1%;
+	width: 50%;
+}
+.title_text {
+	width: 48%;
+	display: block;
+	float: left;
+	color: white;
+	margin-top: 1%;
+	margin-bottom: 1%;
+	font-size: 22px;
+
+}
+.content_text {
+	color: white;
+	margin-right: 1%;
+	margin-left: 1%;
+	margin-bottom: 1%;
+	font-size: 18px;
+	
+}
+.data_true, .data_false {
+	width: 100%;
+	display: block;
+	margin-top: 5px;
+}
+
+.data_true_a {
+	float: left;
+	padding-left: 1%;
+}
+.data_true_a a {
+	font-size: 16px;
+	color: black;
+}
+.data_true_data {
+	float: right;
+	font-size: 16px;
+	color: white;
+	padding-right: 1%;
+}
+.data_false {
+	float: right;
+	font-size: 16px;
+	color: white;
+	padding-right: 1%;
+	display: block;
+}
+.hr {
+	margin-left: 1%;
+	margin-right: 1%;
+	width: 98%; 
+}
